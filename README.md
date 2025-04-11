@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sanskriti Tyagi</h1>
-<h3 align="center">A passionate frontend developer from Delhi, India</h3>
+<h3 align="center">A passionate Fullstack Developer from Delhi, India</h3>
 
 ---
 
-- 🔭 I’m currently working on **Responsive Song Gift Website with HTML, CSS & JS**
+- 🔭 I’m currently building a **Responsive Song Gift Website using HTML, CSS & JS**
   - [View Project](#)
 
-- 👯 I’m looking to collaborate on **Creative Frontend Projects with Dark Theme Designs**
+- 👯 I’m open to collaborations on **Fullstack Web Apps & Dark-Themed UI Projects**
   - [Collaboration Link](#)
 
-- 🤝 I’m looking for help with **Designing Interactive Quiz Games**
+- 🤝 I’m seeking help with **Interactive Game Design & Real-Time Applications**
   - [Help Me Here](#)
 
-- 🌱 I’m currently learning **React, GSAP, and Advanced CSS Animations**
+- 🌱 Currently exploring **React, MongoDB Optimization, GSAP Animations, and AWS**
 
-- 💬 Ask me about **React, GSAP, MongoDB Optimization, and Frontend Animations**
+- 💬 Ask me about **React, Node.js, MongoDB, GSAP, and Fullstack Workflows**
 
-- 📫 Reach me at: **sanskritityagi02@gmail.com**
+- 📫 Email me at: **sanskritityagi02@gmail.com**
 
-- 👨‍💻 View my work: [Portfolio Website](#)
+- 👩‍💻 All of my projects: [My Portfolio](#)
 
-- 📝 Read my blog: [Optimizing MongoDB Queries](#) *(5K+ reads)*
+- 📝 Technical Blog: *"Optimizing MongoDB Queries"* – 5K+ reads on [Medium](#)
 
-- 📄 Download my [Resume](#)
+- 📄 Download Resume: [Sanskriti Tyagi - Resume](#)
 
-- ⚡ Fun fact: *I think I’m funny 😄*
+- ⚡ Fun fact: *I debug my dreams too 😄*
 
 ---
 
@@ -33,77 +33,78 @@
 #### 💻 Programming
 `C++` `Python` `JavaScript`
 
-#### 🎨 Web Development
-`HTML` `CSS` `React.js` `Node.js` `Express.js`
+#### 🌐 Web Development (Frontend)
+`HTML` `CSS` `React.js` `Bootstrap` `Tailwind CSS` `GSAP`
 
-#### 🔙 Backend & Database
-`MySQL` `MongoDB` `Firebase`
+#### 🚀 Backend & Database
+`Node.js` `Express.js` `MongoDB` `MySQL` `Firebase`
 
 #### ☁️ Cloud & DevOps
-`AWS (EC2, S3, Lambda)` *(Basics)*  
-`Git` `GitHub` `VS Code`
+`AWS (EC2, S3, Lambda - Basics)` `Git` `GitHub` `VS Code`
 
-#### 🧪 Tools & Design
-`Figma` `Photoshop` `Postman`
+#### 🧪 Testing & API Tools
+`Postman` `Jest` `Selenium`
 
----
-
-### 📂 Featured Projects
-
-- **Time Travelers Archive**  
-  _React.js, Node.js, MongoDB, Python_  
-  🔹 Scalable archival system for 100K+ records  
-  🔹 JWT authentication for 500+ users  
-  🔹 Reduced retrieval time by 30% via indexing
-
-- **Portfolio Website**  
-  _HTML, CSS, JavaScript_  
-  🔹 Fully responsive & interactive  
-  🔹 40% faster load times using lazy loading  
-  🔹 Boosted engagement by 25%
+#### 🎨 Design Tools
+`Figma` `Photoshop`
 
 ---
 
-### 🏆 Achievements
+### 📂 Highlight Projects
 
-- 🥇 Top 10% in LeetCode contests  
-- 🥈 Ranked top 5% in programming courses  
-- 🏅 Published blog with **5K+ reads**  
-- 💻 Completed Web Dev Bootcamp (Udemy)
+#### 🕰️ Time Travelers Archive
+**React.js, Node.js, MongoDB, Python**
+- Built a scalable archival platform for 100K+ historical records
+- Implemented JWT-based secure authentication for 500+ users
+- Cut data retrieval time by 30% with indexing
 
----
-
-### 🎓 Certifications
-
-- **Cloud Computing (NPTEL - IIT Kharagpur)** – *Elite Holder, Top 5%*  
-- **Google – Networking (Coursera)**  
-- **GEN AI Using IBM Watsonx – IBM Career Ed**  
-- **MATLAB Simulink Onramp – MathWorks**  
-- **Python Essentials – Vityarthi (95% Score)**
+#### 🌐 Portfolio Website
+**HTML, CSS, JavaScript**
+- Fully responsive and interactive portfolio
+- Boosted engagement by 25% via smooth animations
+- Reduced load time by 40% using image optimization
 
 ---
 
-### 🌟 Leadership & Activities
+### 🏅 Achievements
 
-- **Fintech Club (Social Media Team)**  
-  🔹 Boosted engagement by 50%  
-  🔹 Organized **CodeQuest Finanza** Hackathon (150+ participants)  
-  🔹 Hosted **WikiRace** tech quiz & debate (200+ students)  
-  🔹 Secured ₹50,000+ in sponsorships
+- 🧠 Top 10% in LeetCode global contests  
+- 🥇 Top 5% in Programming Courses at University  
+- 📚 Blog with 5K+ readers: “Optimizing MongoDB Queries”  
+- 💻 Completed Web Dev Bootcamp (Udemy) with real-world projects
+
+---
+
+### 📜 Certifications
+
+- **Cloud Computing – NPTEL (IIT Kharagpur)** *(Elite Holder – Top 5%)*
+- **Networking Basics – Google/Coursera**
+- **GEN AI Using IBM Watsonx – IBM Career Education**
+- **MATLAB Simulink Onramp – MathWorks**
+- **Python Essentials – Vityarthi (95%)**
+
+---
+
+### 🧩 Leadership & Activities
+
+- 📢 **Fintech Club (Social Media Team)**  
+  ▫ Increased online engagement by 50%  
+  ▫ Co-hosted CodeQuest Finanza hackathon (150+ participants)  
+  ▫ Led WikiRace – Tech Quiz/Debate (200+ students)  
+  ▫ Raised ₹50,000+ through sponsor partnerships
 
 ---
 
 ### 🔗 Connect with Me
 
-- 🌐 [GitHub](https://github.com/sanskritityagi)
 - 💼 [LinkedIn](https://linkedin.com/in/sanskriti-tyagi-904695250)
+- 🐙 [GitHub](https://github.com/sanskritityagi)
 - 🐦 [Twitter](https://twitter.com/sanskritidev)
 - ✍️ [Dev.to](https://dev.to/sanskritidev)
 - 📝 [Medium](https://medium.com/@sanskritidev)
-- 🌱 [Hashnode](https://hashnode.com/@sanskritidev)
-- 📸 [Instagram](https://instagram.com/sanskritidev)
-- 📚 [GeeksForGeeks](https://www.geeksforgeeks.org/user/sanskritityagi/profile)
+- 📚 [GFG](https://www.geeksforgeeks.org/user/sanskritityagi/profile)
 - 💻 [LeetCode](https://leetcode.com/sanskritidev)
+- 📸 [Instagram](https://instagram.com/sanskritidev)
 
 ---
 
@@ -125,7 +126,7 @@
 
 ---
 
-### 💡 Most Used Languages
+### 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskritityagi&layout=compact&theme=radical)
 
@@ -150,5 +151,6 @@
 ### 👁️‍🗨️ Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanskritityagi&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
